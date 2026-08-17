@@ -9,9 +9,9 @@
 
 
 
-| Клиент | Платформы | Официальный источник |
-|:--|:--|:--:|
-| **NekoBox** | Android · Windows · Linux | [Сайт](https://getnekobox.com/) |
-| **Hekobox** | Android | [GitHub](https://github.com/MatsuriDayo/NekoBoxForAndroid) |
-| **Exclave** | Android | [GitHub](https://github.com/ExclaveNetwork/Exclave) |
-| **Happ** | Android · iOS · Windows · macOS · Linux | [Сайт](https://www.happ.uno/) |
+| Клиент | Источник |
+|---|---|
+| NekoBox | [Официальный сайт](https://qr243vbi.github.io/nekobox/) |
+| Exclave | [GitHub](https://github.com/MatsuriDayo/NekoBoxForAndroid) |
+| Exclave | [GitHub](https://github.com/ExclaveNetwork/Exclave) |
+| Happ | [Официальный сайт](https://www.happ.uno/) |
