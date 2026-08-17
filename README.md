@@ -8,7 +8,7 @@
 [источники VPN](https://github.com/alt-vpn-obxod/sub/blob/main/tg_challen.txt)
 
 
-| Клиенты | Лучше всего для... | Источник |
+| Клиент | Поддержка | Источники |
 |---|---|---|
-| Anything | <ul><li>Android</li><li>iOS</li><li>Windows</li></ul> | GitHub |
-| Другой | <ul><li>Linux</li><li>macOS</li></ul> | Сайт |
+| NekoBox | <ul><li>Android</li><li>iOS</li><li>Windows</li></ul> | [Сайт](https://nekobox.one/devices/) |
+| Другой | <ul><li>Linux</li><li>macOS</li></ul> | [Сайт](https://example.com/) |
