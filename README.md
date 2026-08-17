@@ -3,4 +3,4 @@
 Привет рад что ты обратил внимание на наш проект мы будем расти.
 
 # СБОРНИК
-[White list](sub/white_list.txt)
+[Сабка для белых список](https://github.com/alt-vpn-obxod/sub/blob/main/white_list.txt)
