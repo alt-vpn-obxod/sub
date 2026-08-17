@@ -11,4 +11,5 @@
 | Клиент | Поддержка | Источники |
 |---|---|---|
 | NekoBox | <ul><li>Android</li><li>iOS</li><li>Windows</li></ul> | [Сайт](https://nekobox.one/devices/) |
-| Другой | <ul><li>Linux</li><li>macOS</li></ul> | [Сайт](https://example.com/) |
+| Exclave | <ul><li>Android</li></ul> | [GitHub](https://github.com/ExclaveNetwork/Exclave) |
+| Happ | <ul><li>Android</li><li>iOS</li><li>Windows</li></ul> | [Сайт](https://nekobox.one/devices/) |
