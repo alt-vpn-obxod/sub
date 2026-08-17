@@ -4,3 +4,5 @@
 
 # СБОРНИК
 [Сабка для белых список](https://github.com/alt-vpn-obxod/sub/blob/main/white_list.txt)
+
+[источники VPN](https://github.com/alt-vpn-obxod/sub/blob/main/tg_challen.txt)
