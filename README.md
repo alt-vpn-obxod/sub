@@ -10,7 +10,8 @@
 
 
 | Клиент | Платформы | Официальный источник |
-|---|---|---|
-| Hekobox | Android | — |
-| Exclave | Android | [GitHub](https://github.com/ExclaveNetwork/Exclave) |
-| Happ | Android · iOS · Windows · macOS · Linux | [GitHub](https://github.com/Happ-proxy) |
+|:--|:--|:--:|
+| **NekoBox** | Android · Windows · Linux | [Сайт](https://getnekobox.com/) |
+| **Hekobox** | Android | [GitHub](https://github.com/MatsuriDayo/NekoBoxForAndroid) |
+| **Exclave** | Android | [GitHub](https://github.com/ExclaveNetwork/Exclave) |
+| **Happ** | Android · iOS · Windows · macOS · Linux | [Сайт](https://www.happ.uno/) |
