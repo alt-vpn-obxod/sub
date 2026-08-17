@@ -8,8 +8,9 @@
 [источники VPN](https://github.com/alt-vpn-obxod/sub/blob/main/tg_challen.txt)
 
 
-| Клиент | Поддержка | Источники |
+
+| Клиент | Платформы | Официальный источник |
 |---|---|---|
-| NekoBox | <ul><li>Android</li><li>iOS</li><li>Windows</li></ul> | [Сайт](https://nekobox.one/devices/) |
-| Exclave | <ul><li>Android</li></ul> | [GitHub](https://github.com/ExclaveNetwork/Exclave) |
-| Happ | <ul><li>Android</li><li>iOS</li><li>Windows</li></ul> | [Сайт](https://nekobox.one/devices/) |
+| Hekobox | Android | — |
+| Exclave | Android | [GitHub](https://github.com/ExclaveNetwork/Exclave) |
+| Happ | Android · iOS · Windows · macOS · Linux | [GitHub](https://github.com/Happ-proxy) |
