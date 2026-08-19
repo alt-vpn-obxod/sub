@@ -1,1 +1,7 @@
+#profile-title: ALT VPN OBXOD SUB
+#support-url: https://t.me/alt_vpn_obxod
+#profile-web-page-url: https://t.me/alt_vpn_obxod
+#announce: сабка в раннем доступе сорян
+обновления и подписки в тгк alt_vpn_obxod
 
+#subscription-userinfo: upload=0; download=1073741824; total=161061273600; expire=0
