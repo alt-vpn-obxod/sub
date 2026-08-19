@@ -8,8 +8,6 @@ Telegram: [t.me/alt_von_obxod](https://t.me/alt_von_obxod)
 
 ## Главная подписка
 
-Обн
-
 **ДЛЯ БС**  
 https://github.com/alt-vpn-obxod/sub/raw/refs/heads/main/white_list.txt
 
@@ -39,7 +37,7 @@ https://github.com/alt-vpn-obxod/sub/raw/refs/heads/main/white_list.txt
 
 | Клиент | Платформы | Где скачать |
 | --- | --- | --- |
-| **NekoBox** | Android, Windows, Linux
+| **NekoBox** | Android, Windows, Linux | [GitHub](https://github.com/MatsuriDayo/NekoBoxForAndroid) |
 | **Happ** | Android, Ios, Windows, Linux | [Happ](https://www.happ.su/main/ru) |
 | **Exclave** | Android | [GitHub](https://github.com/ExclaveNetwork/Exclave/releases) |
 | **v2rayNG** | Android | [GitHub](https://github.com/2dust/v2rayNG/releases) |
@@ -47,7 +45,7 @@ https://github.com/alt-vpn-obxod/sub/raw/refs/heads/main/white_list.txt
 
 ---
 
-## Важные моменты
+## Важно!
 
 - Конфиги взяты из открытых и закрытых источников. Я не владею серверами.
 - Работа зависит от оператора, региона и конкретного сервера. У кого-то будет работать лучше, у кого-то хуже.
