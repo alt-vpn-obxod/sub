@@ -1,0 +1,8 @@
+#profile-title: ALT VPN OBXOD SUB
+#support-url: https://t.me/alt_vpn_obxod
+#profile-web-page-url: https://t.me/alt_vpn_obxod
+#announce: обновления и разные подписки на бс в тгк alt_vpn_obxod
+#subscription-userinfo: upload=0; download=1073741824; total=161061273600; expire=0
+
+hysteria2://8569e507-8ef7-481d-9108-6bc7f040c2ff@cns.dodostarscoffee.ru:9443/#%D0%92%D0%A1%D0%95%20%D0%9D%D0%98%D0%96%D0%95%20%D0%9A%D0%9E%D0%9D%D0%A4%D0%98%D0%93%D0%98%20%D0%9D%D0%90%20%D0%91%D0%A1
+hysteria2://8569e507-8ef7-481d-9108-6bc7f040c2ff@cns.dodostarscoffee.ru:9443/#%D0%A1%D0%90%D0%91%D0%9A%D0%90%20%D0%92%20%D0%A2%D0%95%D0%A1%D0%A2%D0%95!
