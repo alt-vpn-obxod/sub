@@ -39,11 +39,11 @@ https://github.com/alt-vpn-obxod/sub/raw/refs/heads/main/white_list.txt
 
 | Клиент | Платформы | Где скачать |
 | --- | --- | --- |
+| **NekoBox** | Android, Windows, Linux
+| **Happ** | Android, Ios, Windows, Linux | [Happ](https://www.happ.su/main/ru) |
+| **Exclave** | Android | [GitHub](https://github.com/ExclaveNetwork/Exclave/releases) |
 | **v2rayNG** | Android | [GitHub](https://github.com/2dust/v2rayNG/releases) |
-| **Hiddify** | Android, iOS, Windows, macOS, Linux | [hiddify.com](https://hiddify.com) |
-| **Karing** | Android, iOS, Windows, macOS, Linux | [karing.app](https://karing.app) |
 | **Throne** | Windows, macOS, Linux | [GitHub](https://github.com/throneproj/Throne) |
-| **Happ** | Android, iOS, Windows, macOS, Linux | [GitHub](https://github.com/Happ-proxy) |
 
 ---
 
